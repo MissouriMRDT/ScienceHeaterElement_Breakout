@@ -1,0 +1,17 @@
+"Source:","C:\Rover\Github\ScienceHeater_2024\ScienceHeaterElement_2023.kicad_sch"
+"Date:","9/29/2023 9:35:36 PM"
+"Tool:","Eeschema 7.0.1"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","9"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Sim.Device","Sim.Pins","Sim.Type"
+"1","1","Conn1","Molex_SL_07","MRDT_Connectors:Molex_SL_07","","","","","",""
+"2","2","D1, D2","LED","Device:LED","","~","","","",""
+"3","1","Q1","NPN","Simulation_SPICE:NPN","","~","","NPN","1=C 2=B 3=E","GUMMELPOON"
+"4","1","R1","2","Device:R","","~","","","",""
+"5","1","R2","300","Device:R","","~","","","",""
+"6","1","R3","1k","Device:R","","~","","","",""
+"7","1","R4","4.7k","Device:R","","~","","","",""
+"8","1","U1","LMT85DCK","Sensor_Temperature:LMT85DCK","Package_TO_SOT_SMD:SOT-353_SC-70-5","http://www.ti.com/lit/ds/symlink/lmt85-q1.pdf","","","",""
