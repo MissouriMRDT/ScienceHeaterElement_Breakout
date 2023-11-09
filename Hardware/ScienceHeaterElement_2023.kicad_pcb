@@ -155,7 +155,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tstamp 6cdf7841-7706-4293-ae25-7d627b463d7d)
-    (at 150.61 63.532)
+    (at 150.80595 42.0182)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at -2.15 -7.34) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
@@ -442,7 +442,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tstamp d3f45db3-0137-4e19-82df-37f006a9ef93)
-    (at 163.83 60.452)
+    (at 164.02595 38.9382)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 5.51 -11.48) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
@@ -1732,7 +1732,7 @@
 
   (footprint "LOGO" (layer "B.Cu")
     (tstamp 2625e88f-54c3-4571-8716-a125f83828d7)
-    (at 170.82225 63.5 180)
+    (at 171.0182 41.9862 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at -2.15 7.34) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
@@ -2094,7 +2094,7 @@
 
   (footprint "LOGO" (layer "B.Cu")
     (tstamp 808a1217-e2d3-444c-89c2-d4492e40ea5c)
-    (at 157.60225 60.42 180)
+    (at 157.7982 38.9062 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 5.51 11.48) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
@@ -3398,8 +3398,8 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e0e16546-a276-41e8-a94b-396b707a4757))
   (gr_line (start 177.799901 72.6217) (end 127.119981 72.62)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp ef3c715f-0a73-496f-99e8-c22abecf0fa2))
-  (gr_text "Science Heater, Rev 1.0\nMars Rover Design Team\nMissouri S&T, 2024\nSean Duda, Tobey Suter Jr" (at 152.908 40.132) (layer "F.SilkS") (tstamp 7bdb3743-2880-49af-b09c-bab9c08d60e8)
-    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify bottom))
+  (gr_text "Science Heater, Rev 1.0\nMars Rover Design Team\nMissouri S&T, 2024\nSean Duda, Tobey Suter Jr" (at 163.83 62.8142) (layer "B.SilkS") (tstamp 7bdb3743-2880-49af-b09c-bab9c08d60e8)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify bottom mirror))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 1b493b9b-6f4c-440b-b497-b66dc078eee9)
     (pts (xy 180.34 33.67375) (xy 180.34 65.42375))
